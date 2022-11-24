@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/image2D.png</file>
+        <file>image/ellipse.png</file>
+        <file>image/move.png</file>
+        <file>image/polygon.png</file>
+        <file>image/rectangle.png</file>
+        <file>qss/darkstyle.qss</file>
+        <file>image/micro_close.png</file>
+    </qresource>
+</RCC>
